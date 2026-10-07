@@ -55,7 +55,7 @@ Download the dataset from Kaggle to run this project:
 ---
 
 ## 👨‍💻 Professional Background
-**Akil Jamadar** *Computer Science Engineer & Aspiring Data Analyst*
+**Soham Gujare** *Computer Science Engineer & Aspiring Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akiljamadar05)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-black?style=flat-square&logo=github)](https://github.com/Akil0572)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohamgujare)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-black?style=flat-square&logo=github)](https://github.com/sohamgujare20)
