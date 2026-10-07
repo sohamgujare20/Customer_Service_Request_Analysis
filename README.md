@@ -1,4 +1,3 @@
-# Customer_Service_Request_Analysis
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Data_Analysis-Pandas_%26_NumPy-green?style=for-the-badge&logo=pandas" />
